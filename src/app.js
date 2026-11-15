@@ -388,8 +388,8 @@ function viewResult() {
   <div class="card" style="padding:22px 18px 18px">
     <div class="scorewrap">
       <svg class="ring" width="196" height="196" viewBox="0 0 196 196">
-        <defs><linearGradient id="gr" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#7c5cff"/><stop offset="55%" stop-color="#ff5c8a"/><stop offset="100%" stop-color="#ffb347"/>
+        <defs><linearGradient id="gr" x1="0" y1="0" x2="1" y2="0.35">
+          <stop offset="0%" stop-color="#a58bff"/><stop offset="60%" stop-color="#ff5c8a"/><stop offset="100%" stop-color="#ffb347"/>
         </linearGradient></defs>
         <circle class="bgc" cx="98" cy="98" r="84"/>
         <circle class="fg" id="fgring" cx="98" cy="98" r="84"/>
